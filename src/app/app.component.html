@@ -1,28 +1,56 @@
-<nav class="navbar navbar-dark bg-info">
+<nav class="navbar navbar-fixed-top navbar-dark bg-dark">
   <div class="title">Principles of Big Data Management - Project</div>
 </nav>
 
 <div id="wrapper" class="toggled">
   <div id="sidebar-wrapper">
     <ul class="sidebar-nav">
-      <li class="sidebar-brand"> <a href="#">Execute Queries</a> </li>
-      <li> <a href="#">Query1</a> </li>
-      <li> <a href="#">Query2</a> </li>
-      <li> <a href="#">Query3</a> </li>
-      <li> <a href="#">Query4</a> </li>
-      <li> <a href="#">Query5</a> </li>
-      <li> <a href="#">Query6</a> </li>
-      <li> <a href="#">Query7</a> </li>
-      <li> <a href="#">Query8</a> </li>
-      <li> <a href="#">Query9</a> </li>
-      <li> <a href="#">Query10</a> </li>
-      <li> <a href="#">Query11</a> </li>
-      <li> <a href="#">Query12</a> </li>
+      <li class="sidebar-brand"><a href="#">Execute Queries</a></li>
+      <li><a href="#" (click)="loadQuery(1)">Query1</a></li>
+      <li><a href="#" (click)="loadQuery(2)">Query2</a></li>
+      <li><a href="#" (click)="loadQuery(3)">Query3</a></li>
+      <li><a href="#" (click)="loadQuery(4)">Query4</a></li>
+      <li><a href="#" (click)="loadQuery(5)">Query5</a></li>
+      <li><a href="#" (click)="loadQuery(6)">Query6</a></li>
+      <li><a href="#" (click)="loadQuery(7)">Query7</a></li>
+      <li><a href="#" (click)="loadQuery(8)">Query8</a></li>
+      <li><a href="#" (click)="loadQuery(9)">Query9</a></li>
+      <li><a href="#" (click)="loadQuery(10)">Query10</a></li>
+      <li><a href="#" (click)="loadQuery(11)">Query11</a></li>
+      <li><a href="#" (click)="loadQuery(12)">Query12</a></li>
     </ul>
   </div>
-  <div id="page-content-wrapper">
-    <div class="container-fluid">
-      <h1>Simple Sidebar</h1>
+
+  <div class="col-12">
+    <div class="page-header">
+      <h2 *ngIf="heading==''">Click the list of Query links on the sidebar for results</h2>
+      <h2 *ngIf="heading"> {{heading}}</h2>
+    </div>
+    <div class="row grid-divider">
+      <div class="card col-sm-6" id="data">
+        <div class="card-body">
+          <h2>Query Results</h2>
+          <table class="table table-striped">
+            <tbody>
+            <tr *ngFor="let record of datalist">
+              <td> {{record[0]}} </td>
+              <td> {{record[1]}} </td>
+              <td *ngIf=record[2]> {{record[2]}} </td>
+              <td *ngIf=record[3]> {{record[3]}} </td>
+              <td *ngIf=record[4]> {{record[4]}} </td>
+            </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+      <div class="card col-sm-6" id="graph">
+        <div class="card-body">
+          <h2>Graph Trends</h2>
+          <div *ngIf=datalist>
+            <img src={{image}} width="100%" height="100%" alt="Screenshot">
+          </div>
+        </div>
+      </div>
     </div>
   </div>
 </div>

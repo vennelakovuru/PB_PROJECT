@@ -4,17 +4,9 @@
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-simple-sidebar/blob/master/LICENSE)
  */
 
-.title{
-  color: white;
-  font-size: 16px;
-  margin: 6px;
-}
-
 body {
   overflow-x: hidden;
 }
-
-
 
 #sidebar-wrapper {
   z-index: 1000;
@@ -79,40 +71,79 @@ body {
   text-decoration: none;
 }
 
-.sidebar-nav>.sidebar-brand {
+.sidebar-nav > .sidebar-brand {
   height: 65px;
   font-size: 18px;
   line-height: 60px;
 }
 
-.sidebar-nav>.sidebar-brand a {
+.sidebar-nav > .sidebar-brand a {
   color: #999999;
 }
 
-.sidebar-nav>.sidebar-brand a:hover {
+.sidebar-nav > .sidebar-brand a:hover {
   color: #fff;
   background: none;
 }
 
-@media(min-width:768px) {
+@media (min-width: 768px) {
   #wrapper {
     padding-left: 0;
   }
+
   #wrapper.toggled {
     padding-right: 250px;
   }
+
   #sidebar-wrapper {
     width: 0;
   }
+
   #wrapper.toggled #sidebar-wrapper {
     width: 250px;
   }
-  #page-content-wrapper {
-    padding: 20px;
+}
+
+@media ( min-width: 768px ) {
+  .title {
+    color: white;
+    font-size: 16px;
+    padding: 9px;
+  }
+
+  .grid-divider {
     position: relative;
   }
-  #wrapper.toggled #page-content-wrapper {
-    position: relative;
-    margin-right: 0;
+
+  .grid-divider > [class*='col-'] {
+    position: static;
+  }
+
+  table {
+
+  }
+
+  td {
+    padding: 5px;
+  }
+
+  .card-body {
+    height: 575px;
+  }
+
+  .card {
+    position: fixed;
+    width: 100%;
+    overflow: auto;
+  }
+
+  #graph {
+    background-image: linear-gradient(white, lightskyblue);
+  }
+
+  #data {
+    background-image: linear-gradient(white, lightskyblue);
   }
 }
+
+

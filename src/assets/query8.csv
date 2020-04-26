@@ -1,0 +1,575 @@
+Location,Tweets
+"Rome, Lazio",390
+"Milan, Lombardy",243
+"Madrid, Spain",107
+"Barcelona, Spain",77
+"Naples, Campania",40
+"Seville, Spain",35
+"Turin, Piedmont",34
+"Beijing, People's Republic of China",30
+"Prato, Tuscany",30
+"Florence, Tuscany",27
+"Città della Pieve, Umbria",27
+"Bologna, Emilia Romagna",24
+"Genoa, Liguria",24
+"Catanzaro, Calabria",23
+"Monfalcone, Friuli-Venezia Giulia",20
+Italy,19
+"Colle di Val d'Elsa, Toscana",18
+"Las Palmas de Gran Canaria, Spain",18
+"Palermo, Sicily",18
+"Novi Ligure, Piemonte",17
+"Trieste, Friuli-Venezia Giulia",17
+"Murcia, Spain",17
+"Milano, Lombardia",16
+"Lucca, Tuscany",15
+"Burgos, Spain",13
+"Potenza, Basilicata",13
+"Malaga, Spain",12
+"Modena, Emilia Romagna",12
+"Hubei, People's Republic of China",12
+"Valencia, Spain",11
+"Inverigo, Lombardia",11
+Ukraine,11
+"Isernia, Molise",11
+"Massa, Tuscany",11
+"Turbigo, Lombardia",11
+"Girona, Spain",10
+"Logroño, Spain",10
+"Perugia, Umbria",10
+"Mantua, Lombardy",9
+"Lusiana, Veneto",9
+"La Spezia, Liguria",9
+"Saragossa, Spain",9
+"Castel Volturno, Campania",9
+"Brugherio, Lombardia",9
+"A Coruña, Spain",9
+"San Severo, Puglia",8
+"Granada, Spain",8
+"Sabadell, Spain",8
+"Cassino, Lazio",8
+"Padua, Veneto",8
+"Tarragona, Espanya",8
+"Verona, Veneto",8
+"Santo Stefano di Cadore, Veneto",8
+"Colle di Tora, Lazio",8
+"Sant Cugat del Vallès, Spain",8
+"Bolzano, Trentino-South Tyrol",8
+"Terni, Umbria",7
+"Tollo, Abruzzo",7
+"Cartoceto, Marche",7
+"Senigallia, Marche",7
+"L'Aquila, Abruzzo",7
+"Ravenna, Emilia Romagna",7
+"Cordova, Spain",7
+"Ciudad Real, Spain",7
+"Gijón, Spain",7
+"Bigastro, España",7
+"Caserta, Campania",7
+"Cremona, Lombardy",7
+"Matera, Basilicata",7
+"Móstoles, España",6
+"Badalona, Spain",6
+"Brescia, Lombardy",6
+"San Remo, Liguria",6
+"San Genesio ed Uniti, Lombardia",6
+"Castelfranco Emilia, Emilia Romagna",6
+"Locorotondo, Puglia",6
+"Torre Annunziata, Campania",6
+"Basiano, Lombardia",6
+"Castellbisbal, España",6
+"Castagneto Carducci, Tuscany",6
+"Viterbo, Lazio",6
+"Bergamo, Lombardy",6
+"Bronte, Sicilia",6
+"Region of Murcia, Spain",6
+"Laureana di Borrello, Calabria",6
+"Las Rozas de Madrid, Spain",6
+"Trento, Trentino-South Tyrol",5
+"Manresa, Spain",5
+"Segovia, Spain",5
+"Desio, Lombardia",5
+"Cambre, España",5
+"Piacenza, Emilia Romagna",5
+"Mercogliano, Campania",5
+"Mola di Bari, Puglia",5
+"Shanghai, People's Republic of China",5
+"Boissano, Liguria",5
+"Lecce, Apulia",5
+"Barcelona, Cataluña",5
+"Vicenza, Veneto",5
+"Baronissi, Campania",5
+"Poggibonsi, Toscana",5
+"Lombardy, Italy",5
+"San Martino Buon Albergo, Veneto",5
+"Trezzano Rosa, Lombardia",5
+"Palma, Spain",5
+"Castel d'Azzano, Veneto",4
+"Ancona, Marche",4
+"Castellón de la Plana, Spain",4
+"Vitoria-Gasteiz, Spain",4
+"Marano di Napoli, Campania",4
+"Benetússer, España",4
+"Bucine, Toscana",4
+"Stimigliano, Lazio",4
+"Porto San Giorgio, Marche",4
+"Vigevano, Lombardia",4
+"Riccione, Emilia Romagna",4
+"Palombara Sabina, Lazio",4
+"Thiene, Veneto",4
+"Bilbao, Spain",4
+"Venice, Veneto",4
+"Avellino, Campania",4
+"Capannori, Toscana",4
+"Falciano del Massico, Campania",4
+"Luino, Lombardy",4
+"Valladolid, Spain",4
+Spain,4
+"Pero, Lombardia",4
+"Casamassima, Puglia",4
+"Cañete de las Torres, España",4
+"Ceuta, Spain",4
+"Militello in Val di Catania, Sicilia",4
+"Campi Bisenzio, Toscana",4
+"Madrid, Comunidad de Madrid",4
+"Segrate, Lombardia",4
+"San Giorgio a Cremano, Campania",4
+"Catalonia, Spain",4
+"Feltre, Veneto",4
+"Quartu Sant'Elena, Sardinia",4
+"Cefalu, Sicily",4
+"Castello di Brianza, Lombardia",4
+"Montegrotto Terme, Veneto",4
+"Cehegín, España",4
+"Ferrara, Emilia Romagna",3
+"Cuéllar, España",3
+"Barbarano Vicentino, Veneto",3
+"Azzano San Paolo, Lombardia",3
+"Clusone, Lombardia",3
+"Benalmádena, Spain",3
+"San Fernando de Henares, España",3
+"Almería, Spain",3
+Via Anagni,3
+"Saponara, Sicilia",3
+"Faenza, Emilia Romagna",3
+"Portici, Campania",3
+Congreso de los Diputados,3
+"Foligno, Umbria",3
+"Ovada, Piemonte",3
+"Alcalá de Henares, Spain",3
+"Crotone, Calabria",3
+"Sant Andreu de la Barca, España",3
+"Villajoyosa, Spain",3
+"Salerno, Campania",3
+"Nichelino, Piemonte",3
+"Montcada i Reixac, España",3
+"Savona, Liguria",3
+"Agrate Conturbia, Piemonte",3
+"Limena, Veneto",3
+"Mijas, Spain",3
+"Sant Feliu de Guíxols, Spain",3
+"Montelupo Fiorentino, Toscana",3
+"Pescara, Abruzzo",3
+"Noventa Padovana, Veneto",3
+"Pavia, Lombardy",3
+"Vigo, Spain",3
+"Capaci, Sicilia",3
+"Seregno, Lombardia",3
+French Guiana,3
+"Fiumicino, Lazio",3
+"Águilas, Spain",3
+"Terrassa, España",3
+"Viareggio, Tuscany",3
+"Bueu, España",3
+"Catania, Sicily",3
+"Peralada, España",3
+"Gavà, Spain",3
+"Modugno, Puglia",3
+"Carugate, Lombardia",3
+"Monza, Lombardia",3
+Camera dei Deputati,3
+"Messina, Sicily",2
+"Gorizia, Friuli-Venezia Giulia",2
+"Villarosa, Sicilia",2
+"Fontanigorda, Liguria",2
+Università Tor Vergata di Roma,2
+"Nocera Superiore, Campania",2
+"Tiana, España",2
+"San Giovanni Valdarno, Toscana",2
+"Jerez de la Frontera, Spain",2
+"Cagliari, Sardinia",2
+"Pozzolo Formigaro, Piemonte",2
+"Monteprandone, Marche",2
+Ospedale Civile di Pescara,2
+"Cerreto d'Esi, Marche",2
+"Lugo, Spain",2
+"Tradate, Lombardia",2
+"Sassari, Sardinia",2
+"Cava de' Tirreni, Campania",2
+"Cerisano, Calabria",2
+"Moltrasio, Lombardia",2
+"Squinzano, Puglia",2
+C.R.I. Area Metropolitana di Roma Capitale,2
+"Hornachuelos, España",2
+"Como, Lombardy",2
+"Oviedo, Spain",2
+"Cesate, Lombardia",2
+"Melilla, Spain",2
+"Cabiate, Lombardia",2
+"Canegrate, Lombardia",2
+"Corinaldo, Marche",2
+"Puerto Real, España",2
+"Sant'Ambrogio di Valpolicella, Veneto",2
+"Figueres, Spain",2
+"Fano, Marche",2
+"Valenza, Piemonte",2
+"Trabia, Sicilia",2
+"Aquino, Lazio",2
+Patagonia,2
+"Cormano, Lombardia",2
+"Novara, Piemonte",2
+"Miglianico, Abruzzo",2
+"Cividale del Friuli, Friuli-Venezia Giulia",2
+"Anzio, Lazio",2
+"Valdemoro, España",2
+"Estepona, Spain",2
+"Pozzuoli, Campania",2
+"Albacete, Spain",2
+"Arcore, Lombardia",2
+"Bresso, Lombardia",2
+"Pordenone, Friuli-Venezia Giulia",2
+"Rignano Flaminio, Lazio",2
+"Nola, Campania",2
+"San Vicente del Raspeig, España",2
+"Correggio, Emilia Romagna",2
+"El Campello, Spain",2
+"Gioia del Colle, Puglia",2
+"Reggio Emilia, Emilia Romagna",2
+"Santa Coloma de Gramenet, España",2
+"Hospitalet de Llobregat, Spain",2
+"Signa, Toscana",2
+"Conegliano, Veneto",2
+"Barga, Toscana",2
+"Castelnuovo Berardenga, Toscana",2
+"Portugalete, España",2
+"Nerviano, Lombardia",2
+"Cervia, Emilia Romagna",2
+"Spilimbergo, Friuli-Venezia Giulia",2
+"Elche, Spain",2
+"Alcobendas, Spain",2
+"Santa Maria di Sala, Veneto",2
+"La Rinconada, España",2
+"Vilanova i la Geltrú, Spain",2
+"Iglesias, Sardegna",2
+"Eboli, Campania",2
+"Gubbio, Umbria",2
+"Piateda, Lombardia",2
+"Pasaia, España",2
+"San Vito dei Normanni, Puglia",2
+"Roccasecca, Lazio",2
+"Azienda Ospedaliera Universitaria \Federico II\"" (Secondo Policlinico)""",2
+"Alatri, Lazio",2
+"Soliera, Emilia Romagna",2
+"Cinisello Balsamo, Lombardia",2
+"Sirolo, Marche",2
+"Asti, Piedmont",2
+"Ivrea, Piedmont",2
+"Ciampino, Lazio",2
+"Traversetolo, Emilia Romagna",2
+"Gattinara, Piemonte",2
+"Taormina, Sicily",2
+"Castellammare di Stabia, Campania",2
+Jammu And Kashmir,2
+"Picassent, España",2
+"Chieti, Abruzzo",2
+"La Garriga, España",2
+"Austis, Sardegna",2
+"Stradella, Lombardia",2
+"Bari, Apulia",2
+"Almoster, España",2
+"Sestri Levante, Liguria",2
+"Calvi dell'Umbria, Umbria",2
+"Carmignano, Toscana",2
+"Alfajarín, España",2
+People's Republic of China,2
+"Paracuellos de Jarama, España",2
+"Ariano Irpino, Campania",2
+"Fondi, Lazio",2
+"Carlentini, Sicilia",2
+"Reggio Calabria, Calabria",2
+"Latina, Lazio",2
+"Udine, Friuli-Venezia Giulia",2
+Comune di Montecalvo Irpino,2
+"Pieve di Soligo, Veneto",2
+"Frosinone, Lazio",2
+"Misterbianco, Sicilia",2
+"Mozzo, Lombardia",2
+"Lardero, España",2
+"Palafolls, España",2
+"Ceccano, Lazio",2
+"Crema, Lombardia",2
+"Vilassar de Mar, España",2
+"Brindisi, Apulia",1
+"Avegno, Liguria",1
+"Ostra, Marche",1
+Estación de Cercanías de Madrid-Atocha,1
+"Montesilvano, Abruzzo",1
+"Brescia, Lombardia",1
+"Umbria, Italy",1
+"Fara Gera d'Adda, Lombardia",1
+"Bosa, Sardinia",1
+"Rende, Calabria",1
+"Sannicola, Puglia",1
+"Sant Sadurní d'Anoia, España",1
+"Sant Antoni de Vilamajor, España",1
+Distrito Digital,1
+"Barberà del Vallès, Spain",1
+"Rivignano, Friuli-Venezia Giulia",1
+"Pozuelo de Alarcón, Spain",1
+"Cadiz, Spain",1
+Di Più Discount,1
+Acri,1
+"Cuevas del Valle, España",1
+"Chiuro, Lombardia",1
+"Ponte in Valtellina, Lombardia",1
+Wuhan,1
+"Monte Sant'Angelo, Puglia",1
+"Telde, España",1
+"Limbiate, Lombardia",1
+"San Vitaliano, Campania",1
+"Seu d'Urgell, Spain",1
+"Sant Pere de Vilamajor, España",1
+"Ansoáin, España",1
+Piazza di Spagna,1
+"Torre del Greco, Campania",1
+"Venezia, Veneto",1
+"Pagani, Campania",1
+"Napoli, Campania",1
+"Montechiarugolo, Emilia Romagna",1
+"Cordova, Andalusia",1
+"Castello di Serravalle, Emilia Romagna",1
+"Tigliole, Piemonte",1
+"Guadalajara, Spain",1
+"Alcúdia, Spain",1
+"Esparreguera, España",1
+"Dormelletto, Piemonte",1
+"Vimercate, Lombardia",1
+"Negrar, Veneto",1
+"Sorrento, Campania",1
+"Paterna, España",1
+"Sant Joan d'Alacant, Spain",1
+"Dro, Trentino-Alto Adige",1
+"Alcalá de Guadaíra, Spain",1
+"Pompei, Campania",1
+"Treviglio, Lombardia",1
+"Forès, España",1
+"Montgat, España",1
+"Corsico, Lombardia",1
+"Pineto, Abruzzo",1
+"Vilafant, España",1
+"Mérida, Spain",1
+"Santa Cruz de Tenerife, Spain",1
+"Olgiate Olona, Lombardia",1
+"Rignano sull'Arno, Toscana",1
+"El Vendrell, Spain",1
+Пнівський замок / Pniv Castle,1
+"Fortunago, Lombardia",1
+"Lebrija, España",1
+"Lorca, Spain",1
+"Santa Fe, España",1
+"Mesagne, Puglia",1
+重庆北站 Chongqing North Railway Station,1
+"Vedelago, Veneto",1
+"Melfi, Basilicata",1
+"Mortara, Lombardia",1
+"Jerzu, Sardegna",1
+"Mataró, Spain",1
+"Fanano, Emilia Romagna",1
+"Huelva, Spain",1
+"Espartinas, España",1
+"Antequera, Spain",1
+"Roncadelle, Lombardia",1
+"El Rosario, España",1
+"el Prat de Llobregat, Espanya",1
+"Solarino, Sicilia",1
+"Torrent, España",1
+"Piazzola sul Brenta, Veneto",1
+"Finestrat, Spain",1
+"Monzón, España",1
+Huaqiang Rd. Metro Station,1
+"Vigonza, Veneto",1
+"Artana, España",1
+"Cassano Spinola, Piemonte",1
+"Lonate Pozzolo, Lombardia",1
+"Arona, Spain",1
+"Gozón, España",1
+"Albano Laziale, Lazio",1
+Plaça del Mercadal,1
+"Badajoz, Spain",1
+"Puigpelat, España",1
+"San Vito Chietino, Abruzzo",1
+"Sitges, Spain",1
+"Calamocha, España",1
+"Forlì, Emilia Romagna",1
+"Talavera de la Reina, Spain",1
+"Castiglione di Sicilia, Sicilia",1
+"Bell-lloc d'Urgell, España",1
+"Langhirano, Emilia Romagna",1
+"Burjassot, España",1
+"Narni, Umbria",1
+"San Donà di Piave, Veneto",1
+"Villalar de los Comuneros, España",1
+"Vícar, España",1
+"Buccinasco, Lombardia",1
+"Gaggiano, Lombardia",1
+"Premià de Mar, Spain",1
+"Casella, Liguria",1
+"Pontevedra, Spain",1
+"Santa María del Campo Rus, España",1
+"Basiglio, Lombardia",1
+Barcelona,1
+Farmacia Serra,1
+"Grottaglie, Puglia",1
+"Boadilla del Monte, España",1
+"Zamora, Spain",1
+"Imola, Emilia Romagna",1
+"Locri, Calabria",1
+"Sant Vicenç dels Horts, España",1
+"Racconigi, Piemonte",1
+"Solsona, España",1
+"Orta di Atella, Campania",1
+"Calanna, Calabria",1
+"Quart, España",1
+"Treviso, Veneto",1
+"Comiso, Sicilia",1
+"Saronno, Lombardia",1
+"Benidorm, Spain",1
+"Cernobbio, Lombardy",1
+"La Línea de la Concepción, Spain",1
+"San Giorgio delle Pertiche, Veneto",1
+"Settimo Torinese, Piemonte",1
+"el Masnou, Espanya",1
+"Torremolinos, Spain",1
+"Atena Lucana, Campania",1
+Piazza Pietro Nenni,1
+"San Miguel de Salinas, España",1
+"Bolsena, Lazio",1
+"Madridejos, España",1
+"Romano d'Ezzelino, Veneto",1
+"Parma, Emilia Romagna",1
+"Roma, Lazio",1
+"Vercelli, Piemonte",1
+"Tolmezzo, Friuli-Venezia Giulia",1
+"Oliete, España",1
+"Manzano, Friuli-Venezia Giulia",1
+Santa Agnès de Malanyanes,1
+"Sulmona, Abruzzo",1
+"Casalpusterlengo, Lombardia",1
+"Cuneo, Piedmont",1
+"Torrevieja, Spain",1
+"Tibet, People's Republic of China",1
+"Pescosansonesco, Abruzzo",1
+"Lodi, Lombardia",1
+"Pamplona, Spain",1
+"Motril, Spain",1
+"Viladecans, Spain",1
+"Pavia, Lombardia",1
+"Vinarós, España",1
+"Llucmajor, Spain",1
+"Cambrils, Spain",1
+"Soria, Spain",1
+"Castelfidardo, Marche",1
+"Lissone, Lombardia",1
+Fundación Jiménez Díaz,1
+"Buenavista del Norte, España",1
+"Campobasso, Molise",1
+"Girifalco, Calabria",1
+"Salt, España",1
+"Bellaria-Igea Marina, Emilia Romagna",1
+"Formigine, Emilia Romagna",1
+Carpisa  - Stazione centrale milano,1
+Palazzo del Cinema,1
+"Ceriano Laghetto, Lombardia",1
+"Capri, Campania",1
+"Pistoia, Tuscany",1
+"Motta San Giovanni, Calabria",1
+"Potes, Spain",1
+Guardia Urbana Badalona,1
+"El Ejido, Spain",1
+"Piedmont, Italy",1
+"Torà, España",1
+"Alcásser, España",1
+"Sichuan, People's Republic of China",1
+"Pesaro, Marche",1
+"Manacor, Spain",1
+"Montevarchi, Toscana",1
+"Otranto, Apulia",1
+"Canyelles, España",1
+"Livorno, Tuscany",1
+"Lamezia Terme, Calabria",1
+"Sevilla la Nueva, España",1
+"Fujian, People's Republic of China",1
+"Malaga, Andalusia",1
+"Syracuse, Sicily",1
+"Frascati, Lazio",1
+"Santa Pau, España",1
+"Beregazzo con Figliaro, Lombardia",1
+"Cappella Maggiore, Veneto",1
+"Pula, Sardinia",1
+"Alboraya, España",1
+"Loreto, Marche",1
+"Camerino, Marche",1
+"Chiavenna, Lombardy",1
+"Moraleja de Enmedio, España",1
+"Rueda, España",1
+"Cieza, España",1
+"Castiglione Torinese, Piemonte",1
+A.G.T. Communications,1
+"Formia, Lazio",1
+"Chelva, España",1
+"Tarancón, España",1
+"Getafe, Spain",1
+"Pizzo, Calabria",1
+"Casoria, Campania",1
+"Borgo Val di Taro, Emilia Romagna",1
+"Cártama, España",1
+"Quarrata, Toscana",1
+"Padul, España",1
+"Corbetta, Lombardia",1
+"Sant'Alfio, Sicilia",1
+"Priego de Córdoba, España",1
+"Cenate Sotto, Lombardia",1
+"Merano, Trentino-South Tyrol",1
+"Leganés, Spain",1
+"Sondrio, Lombardia",1
+"Begues, España",1
+"Lazio, Italy",1
+"Galbiate, Lombardia",1
+"Vernole, Apulia",1
+"Solofra, Campania",1
+"Santander, Spain",1
+"San Juan de Aznalfarache, Spain",1
+"Alicante, Spain",1
+"Murcia, Región de Murcia",1
+"Cesena, Emilia Romagna",1
+"Balsareny, España",1
+"Tacoronte, España",1
+"Torroella de Montgrí, Spain",1
+"Giugliano in Campania, Campania",1
+"Figline Valdarno, Tuscany",1
+"Seville, Andalusia",1
+"Sienna, Tuscany",1
+"Albavilla, Lombardia",1
+"San Cristóbal de la Laguna, Spain",1
+"Reus, Spain",1
+"El Puerto de Santa María, Spain",1
+"Granada, Andalucía",1
+"Duino-Aurisina, Friuli-Venezia Giulia",1
+"Aprilia, Lazio",1
+"Rute, España",1
+"Lucena, España",1
+Mercadona San Nicolás Ávila,1
+"Guangdong, People's Republic of China",1
+"Sesto Fiorentino, Toscana",1
+"Grijota, España",1
+"Vitulazio, Campania",1
